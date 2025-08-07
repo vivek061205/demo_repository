@@ -1,2 +1,2 @@
 #demo_repository
-local repository hi hello every one 
+hi local repo ji 
